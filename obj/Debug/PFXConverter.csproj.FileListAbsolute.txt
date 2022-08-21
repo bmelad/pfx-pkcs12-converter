@@ -1,0 +1,9 @@
+D:\Projects\PFXConverter\bin\Debug\PFXConverter.exe.config
+D:\Projects\PFXConverter\bin\Debug\PFXConverter.exe
+D:\Projects\PFXConverter\bin\Debug\PFXConverter.pdb
+D:\Projects\PFXConverter\obj\Debug\PFXConverter.frmPfxConverter.resources
+D:\Projects\PFXConverter\obj\Debug\PFXConverter.Properties.Resources.resources
+D:\Projects\PFXConverter\obj\Debug\PFXConverter.csproj.GenerateResource.cache
+D:\Projects\PFXConverter\obj\Debug\PFXConverter.csproj.CoreCompileInputs.cache
+D:\Projects\PFXConverter\obj\Debug\PFXConverter.exe
+D:\Projects\PFXConverter\obj\Debug\PFXConverter.pdb
